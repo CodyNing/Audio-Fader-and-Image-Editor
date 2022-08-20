@@ -1,4 +1,4 @@
-# Audio-Fader-and-Image-Ordered-Dithering-Auto-Level
+# Audio-Fader-and-Image-Editor
 
 A tool in C# used for:
 - Adding audio fade in and fade out effect
@@ -7,4 +7,4 @@ A tool in C# used for:
 - Auto-level given image
 
 ## Result
-![alt text](https://github.com/CodyNing/Audio-Fader-and-Image-Ordered-Dithering-Auto-Level/raw/main/result.png)
+![alt text](https://github.com/CodyNing/Audio-Fader-and-Image-Editor/raw/main/result.png)
